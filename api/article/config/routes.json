@@ -47,6 +47,14 @@
       "config": {
         "policies": []
       }
+    },
+    {
+      "method": "GET",
+      "path": "/articles/:slug/related",
+      "handler": "article.related",
+      "config": {
+        "policies": []
+      }
     }
   ]
 }

@@ -19,7 +19,7 @@
       "required": true
     },
     "articles": {
-      "via": "category",
+      "via": "categories",
       "collection": "article"
     }
   }

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_sections_relateds",
+  "info": {
+    "name": "related",
+    "icon": "atom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "articles": {
+      "collection": "article"
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

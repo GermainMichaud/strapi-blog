@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_sections_dfgs",
+  "info": {
+    "name": "dfg",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "cats": {
+      "collection": "article"
+    }
+  }
+}
